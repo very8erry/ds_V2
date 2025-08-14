@@ -3,4 +3,4 @@ pandas
 plotly
 plotly
 base64
-io
+BytesIO
